@@ -262,7 +262,7 @@
         AAAAAAAAAAAAAAAAAAAAAACAKf3jH/8HxzLLpeZZEwYAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="button1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="btnClose.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAcHBwcHBwgICAgLCwoLCxAODQ0OEBgREhESERgkFhoWFhoW
         JCAmHx0fJiA5LScnLTlCNzQ3Qk9HR09kX2SDg7D/2wBDAQcHBwcHBwgICAgLCwoLCxAODQ0OEBgREhES
